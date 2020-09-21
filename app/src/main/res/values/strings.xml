@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Downloader</string>
+    <string name="paste_link">Paste Link</string>
+    <string name="download">Download</string>
+    <string name="permission_title">Oops! You\'ve denied the permission</string>
+    <string name="write_permission_request">I need storage permission, to save the media file to your storage.\nWithout the permission I cannot save your file.</string>
+    <string name="image_url">Image URL</string>
+</resources>
